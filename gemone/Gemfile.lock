@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    gemone (1.0)
+      gemtwo
+
+PATH
+  remote: /Users/joffreyjaffeux/Projects/multigem/gemtwo
+  specs:
+    gemtwo (1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.4.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gemone!
+  gemtwo!
+  rake

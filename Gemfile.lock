@@ -1,0 +1,18 @@
+PATH
+  remote: ./gemone
+  specs:
+    gemone (1.0)
+      motion-require (>= 0.0.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    motion-require (0.2.0)
+    rake (10.4.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gemone!
+  rake
